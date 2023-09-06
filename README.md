@@ -1,1 +1,1 @@
-This repository is a colleciton of materials used for the IIT class ITMD-361.
+Website for Lab 2 - ITMD-261
